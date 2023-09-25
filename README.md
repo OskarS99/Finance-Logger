@@ -4,6 +4,7 @@
 https://oskars99.github.io/Finance-Logger/
 
 ## Descritpion
+A simple form that allows you to list new invoices or future payments.
 
 ## Used Technology
 ### HTML
@@ -11,7 +12,4 @@ https://oskars99.github.io/Finance-Logger/
 ### JavaScript
 ### TypeScript
 
-## Available Scripts
-In the project directory, you can run:
 
-### `npm start`
